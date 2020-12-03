@@ -2,11 +2,12 @@
 export libscip
 
 using bliss_jll
+using GMP_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("SCIP")
 JLLWrappers.@declare_library_product(libscip, "libscip.so.7.0")
 function __init__()
-    JLLWrappers.@generate_init_header(bliss_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(bliss_jll, GMP_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libscip,
         "lib/libscip.so",
