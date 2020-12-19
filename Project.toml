@@ -1,6 +1,6 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "0.1.1+1"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,3 +14,4 @@ bliss_jll = "508c9074-7a14-5c94-9582-3d4bc1871065"
 [compat]
 JLLWrappers = "1.1.0"
 julia = "1.0"
+GMP_jll = "=6.1.2"
