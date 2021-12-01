@@ -1,12 +1,13 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "0.1.3+0"
+version = "0.2.0+0"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
-GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Ipopt_jll = "9cc047cb-c261-5740-88fc-0cf96f7bdcc7"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
@@ -15,4 +16,4 @@ bliss_jll = "508c9074-7a14-5c94-9582-3d4bc1871065"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
