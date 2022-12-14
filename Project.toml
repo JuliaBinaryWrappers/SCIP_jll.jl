@@ -1,6 +1,6 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "800.0.200+1"
+version = "800.0.300+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
