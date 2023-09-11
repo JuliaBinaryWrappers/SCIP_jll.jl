@@ -1,9 +1,8 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "800.0.301+0"
+version = "800.0.400+0"
 
 [deps]
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
@@ -20,5 +19,5 @@ bliss_jll = "508c9074-7a14-5c94-9582-3d4bc1871065"
 JLLWrappers = "1.2.0"
 julia = "1.6"
 Bzip2_jll = "1.0.8"
-Ipopt_jll = "300.1400.400"
-boost_jll = "=1.76.0"
+Ipopt_jll = "300.1400.1302"
+boost_jll = "=1.79.0"
