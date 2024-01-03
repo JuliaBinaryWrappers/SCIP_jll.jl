@@ -1,6 +1,6 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "800.100.0+0"
+version = "800.100.0+1"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
