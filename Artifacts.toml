@@ -1,288 +1,288 @@
 [[SCIP]]
 arch = "aarch64"
-git-tree-sha1 = "ac4f36de4c67eba2a69b3d4c2191d3b18a4958b1"
+git-tree-sha1 = "23d5e58a3f10779acd4edfb0bcee1414ed7a22b4"
 os = "macos"
 
     [[SCIP.download]]
-    sha256 = "0cbb9dda5f8667b80f13c798930dde782e31964347dc0abb5a5b9ad5bd459066"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "954b3dde912ae0c8d19f589d47d6f6c7ebeaf4ba04810c30e53c5f22bfa1b8ea"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.aarch64-apple-darwin.tar.gz"
 [[SCIP]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d79e8d231e4b5ab36e5712b4bf429b124c363703"
+git-tree-sha1 = "86fbe814582caac70366feb3d0030fb53fd53ef0"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "f5e298f31d0791cde3fe820329ef54a8a20e181d2badc2b4fc87922ccf841e1a"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5abe4cbaf3cfc3f33b23f2e20e3afae7b2c002c61acdde861a01082693da6773"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[SCIP]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "87b80137720448bae1180155b81777f694371881"
+git-tree-sha1 = "ec905e229503aa38596113d397ce9929be97be5c"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "a325fe9950300bb448a52c857738e0d05b96c7b16a08d5f46c137675b3bf8333"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a191ea84941e1465743170d40d8813c4e0c3f1f8fcab4174b110cdbbeb087efb"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[SCIP]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edf246ebb3fec8ad9efb9097103a3e53fb36f06e"
+git-tree-sha1 = "dc27c87d2d3d395500706290a10163aa3952a44b"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "4599bace082b50659cc9aaf603914127d811e7d7fc89d26a403591b0420bd868"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "03f12603e253f9aa05ef86f1b6afdcb55dcc9c88ae48a1328f8699b0fe39d9f6"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[SCIP]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b4341065751192b0fb86716cd470c490de2f7ee"
+git-tree-sha1 = "a3fdd2916fded8bce21f9d88eafc2fb354069c06"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "f387fb58edeccf0ebb1c62686394dab5032fca413fe7ecd2b109ccf0d9155057"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "4a50b0f5ea291421e8dacf4ed9ee8f66cc9455a73d9a9493f4f3614ee07c6836"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[SCIP]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f201d7624a9600c72a043ba1aae756324870a45d"
+git-tree-sha1 = "a2d4e0c3a0dfa13d0461d3f120cba069a4c7dc40"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "a5d7836f62dae214ed055a90649122052d10c56525970840094a567b272f93b4"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9080176f327811462aea44651bb56086c0f12ed40a40d1b9bcb4e6abd6ce4439"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[SCIP]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de98f8ca82b161636c72aab597f2dff5e092e9c5"
+git-tree-sha1 = "f3b4fb08579667877bf70b8cb03b749319d5415e"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "a640c037871d1c7e79e85173de0e416e963332b9af3f8b6814b01f82f63901a7"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "eb16e9a341e18dce024d6165d63c7400083d5f988e75ccd83373059ac014f8aa"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[SCIP]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "375b7c36e2bbc537fdb04b2903bf4a203a9883f6"
+git-tree-sha1 = "efa2aabff18d8bcc7301ed2e311169995972f69c"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "8a90530366b84f210ec72236165b39fe2fc0baeead8ee6c88c5d8e90b7cf9036"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "5d30c3d54d8d42c5a0ad56cfb80033e4f1c200f1a719b240e4e6ade4668915ec"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[SCIP]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73b2e4730078db599abe0f24b2d462c76e1e2354"
+git-tree-sha1 = "ae97144979199bf0f2d28ca145353f8923d92be8"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "9b9252116a5367a9701971003d6434e91a144c2e192ac4f09abdc632131356b9"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f32300abe2d981364b798b80cde0d1e6760c99463925ab0e33e6966d87124de9"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[SCIP]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8966a154a0cfaedb08586cc4163eba45b1a0bcb"
+git-tree-sha1 = "35f536e99cd636e04dacb6d34100be0878122d69"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "608466d58e7cae3fd8df7e0b2345922d40c8f7e63d1e934ab5330ec4691d8f26"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "59b2599a2c96e19a3e6980ff2bd5dedf6ff77b4541bf6b441932569bb2f1d8ad"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SCIP]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d34e5eaae8ed7eb800a04547e3ae49521637d3a6"
+git-tree-sha1 = "d30d16eef2dcde39c462a450c971f67100513978"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "430197653cbfb70ba6615ed747e6a1cf1befcf8d573fd31c24b9cf7b12a65874"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "b52af3b77b200ac469afdd50e24e33b82694debf34766f51b6e4a2a6d7cd900d"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SCIP]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0fff0defa74ba1c319e61cec4d38487ee796e688"
+git-tree-sha1 = "db3c49509f6acf291f455512d7143089d4f4cf42"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "3de59e29848b726d0b60cab6d4507470adf602ef434b902a2e4a4f3ae48fda47"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "9a31d5b1f6b0ffdac2d3aa1b7a58c6c3032e30dd19b8ff6e08dd307473894df5"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SCIP]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "839d6a93ea3b3363d38476dc07c65423f5cbbbb1"
+git-tree-sha1 = "08bb5ffd3775952410120aa2d366b355ffb02dd7"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "cd9b734ea4a46b458b97095421b95ec516bf1bcb00a24d8fc3ecfebe06e3c6bc"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e2be6806f903b02587bf3f9582b434f001a53963b9c86d4883bc3da08ad44708"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "54052be451947d288c13ef602e9686942158f99a"
+git-tree-sha1 = "c5ebbf79e2bd415bdd2e02f4f2230a489c62b372"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "7f5b1025e1b4f61937cf608cd3fce971cfe44c26273135942db815d35d45bd67"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "25bd9e9e43f490a5dd59c4269396ec1ea6f406379dedd2a870f1fc3f3f301c76"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a77a1d0d53b1e19959b08d0689879cdf33de7e5"
+git-tree-sha1 = "212457308db394f09bb4aaf0ea90358c3d2397fe"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "6bd291fc3b336f7c7db039adbe6047ad7b444247fb7a4c94133cdb4ebf69f00c"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "52847984f0b4acf927aada14133440f412f4df0aad23a667fff6263370599ab4"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "723dcc74b268ca2d99e32a47496e273454b04dc3"
+git-tree-sha1 = "cc59bc7a3f99646e255efdee40861a2c037f036c"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "b4b51d5e308eafaacd456e36f9476d5023ee9fe17b0464f066f93d7cf145d7eb"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "5643a17862e0bc44e53226cdde4e0e1b5693d024c6bf61ba3fed20daabbcdb40"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-linux-musl-cxx03.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36a0a91c9b85390d0689fff6c4d3fe4e3fa96478"
+git-tree-sha1 = "898a76bba3063fe4b734cfd36ff455ac06ba0522"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "3a3a75cdf39f6e06e35cf36d6d439ce1de623855da0a7b438e78543823434246"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "b529600effdd53f0bb01ae1fe52a917dd2db8301d2ae1f141608f3af32ff8fdb"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-linux-musl-cxx11.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "00b41b85fa0fd77caeed8e1ae751ad9f1fe15bf9"
+git-tree-sha1 = "6ebe32ab0cc069be1038485ee6d81926907c72e2"
 os = "windows"
 
     [[SCIP.download]]
-    sha256 = "84466a7a722a23876fe694cad87ad784f610ce0ce4c2d0290e8418ce4a3d1a5e"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "764e9f1482160e285b0c9080605e5c9dcec2f59fd1c4b39e2280a4577301e7fb"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[SCIP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d87311c544bc4f89247279cd4fef78cd29e94a7"
+git-tree-sha1 = "b6af4d659ac528e81626cb68bf3e68a3a31677d4"
 os = "windows"
 
     [[SCIP.download]]
-    sha256 = "16612a16b4c06ed68c7fadff56fa7cdc11206641952ea06bdfc93057543be378"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a26b5aea6f914754e8a1a2ab3618b794b43f1023d925bacbe3f4cd12c3f32b99"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[SCIP]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "02ad8aa3a6e09056ae62b55a7bcf476a425af33d"
+git-tree-sha1 = "9d412d0bfb0c1ccc3ff6d7d8d7cbfc5a83695cc1"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "edd345a361144646fb5770a0a6adb50e58681876516140bf697eba9ad80ff86a"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "843869c785d93767eb00b226eae408271aace459628186f5870ff1cee88dc026"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SCIP]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f87efc9add1f25140a38e018a63ce5b3d3c1bbad"
+git-tree-sha1 = "693b014728c44ead2215260b4908e4a53f655b47"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "158ba6e74fcded4e0b9242ab2cae0f99ba69d09b5905061cc2c9c96c912366f2"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "0cb7f8ca726798677b0198c73fe67d805633dfd62f53b1520bac36a5e23a8b16"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SCIP]]
 arch = "x86_64"
-git-tree-sha1 = "e9882b9a145cb1cabc34114c6ef33eaeae5b4c26"
+git-tree-sha1 = "1f6a12f86195c709cc25f77a2afb674ffdd31226"
 os = "macos"
 
     [[SCIP.download]]
-    sha256 = "195e4d5b0e4f45218d71e671956abb1128d2767be048357b29b0d17eb12b49ef"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "e5a78acc4c071efc2a08eb1e7043096edaa20228359ebb2b060b3f60a89f6b62"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-apple-darwin.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c1573da960e0c7c1e0e9935decdeb88e8e7dcd70"
+git-tree-sha1 = "c2758d718fa90778d06a24d1d1e32adfccfbe30f"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "75b070c5311734e0e839438998273abd893d4042a9579aa330ca179c8a6345eb"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "eb65708444a13130ddb28ee36b4c171de3d1bdfac5f18c71fe5c4aad1fd7ba94"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ef0e4a692160d7edfa6b4d780906cf905c37edb"
+git-tree-sha1 = "7cd44dd937d4023f70d85224bff06c5e842fdcd3"
 libc = "glibc"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "6717f0d54ed060b55e47e8ff5e7beba0ff5d1c249bf30a751413930ecaae39a2"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b55572071077bfde3a2176bebef5e7f8ffcba232b5793fee5f55dd931dd0ccf2"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee42274ee84003d2b1b0b02e560413987fe6e4b7"
+git-tree-sha1 = "fafe81b59e880011fb3f96a1300667d00f5c1643"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "482fc6523d6ff2f41cd61a5ffc40cadfd6cfd2ed3a314b2f0662fefddd8dd973"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "858ebf0709a14f479bf0dfa820948de509b00a1429426abe67c6dd0db0b5e748"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7b10dcfe5ca12cbe421f7b0a7b22184844d4a00e"
+git-tree-sha1 = "3d782d2c1c963218ab6fd0df14fbf206b0222cf7"
 libc = "musl"
 os = "linux"
 
     [[SCIP.download]]
-    sha256 = "818ca7f23ca44b824ca337092ec8d28e84e0d3b95edaf446f69df6d105769fa4"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "d88b6c84f3891b0f516272ae2a2dfc394497cdeb85d6b8cdd86c6dde5509797c"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[SCIP]]
 arch = "x86_64"
-git-tree-sha1 = "c715861a5314d9a46ba3d87922f0a42f9a0095d1"
+git-tree-sha1 = "90c6fce944fe99172d0ea56e58ec3c5a5e5bc72a"
 os = "freebsd"
 
     [[SCIP.download]]
-    sha256 = "cdbf046c574f012ebcff07d6b890cd75673db7545e784964320ea26c06146806"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7f336420e7de9077309fa0d88f74458e9fee380f3256efb7da51b4954c4e926f"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-unknown-freebsd.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "19545d587c8c48bb4d4eabb8c0325afbaaf7c5eb"
+git-tree-sha1 = "27103037b57a7aa8078cfb5676c14d9015b5534d"
 os = "windows"
 
     [[SCIP.download]]
-    sha256 = "16530e34e56895810e38ab7d340a94369122f3a1fe2143568cc689a9b7e6637e"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "52bcaf97edbe7af0387c210388244dde4bb070fba896e0f3992a0695d15cea97"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[SCIP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55086c901964a42f87a955085e92a75c2b836fdf"
+git-tree-sha1 = "124b6d8f16cc49e2656f2d8cfe751b5e5a524365"
 os = "windows"
 
     [[SCIP.download]]
-    sha256 = "bcaf4be13ca926714bbc8a4400c87656dfd6ff55ab261a292d7f74c9ceb056f0"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+0/SCIP.v900.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "51f3cba8146b064a3d2b8cf416ca64f2c2a57c925a7c0b2e72272c01b15e4100"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_jll.jl/releases/download/SCIP-v900.0.0+1/SCIP.v900.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
