@@ -1,6 +1,6 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "900.200.0+0"
+version = "900.200.100+0"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -15,9 +15,9 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-Bzip2_jll = "1.0.8"
+Bzip2_jll = "1.0.9"
 Ipopt_jll = "300.1400.1400"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
