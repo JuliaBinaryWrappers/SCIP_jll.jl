@@ -1,6 +1,6 @@
 name = "SCIP_jll"
 uuid = "e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce"
-version = "900.200.100+1"
+version = "900.200.101+0"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -21,4 +21,4 @@ Bzip2_jll = "1.0.9"
 Ipopt_jll = "300.1400.1400"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
-boost_jll = "=1.79.0"
+boost_jll = "=1.87.0"
