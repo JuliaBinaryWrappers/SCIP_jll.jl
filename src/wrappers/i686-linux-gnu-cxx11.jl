@@ -6,14 +6,15 @@ using Bzip2_jll
 using CompilerSupportLibraries_jll
 using GMP_jll
 using Ipopt_jll
+using MPFR_jll
 using Readline_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("SCIP")
-JLLWrappers.@declare_library_product(libscip, "libscip.so.9.2")
-JLLWrappers.@declare_library_product(libsoplex, "libsoplexshared.so.7.1")
+JLLWrappers.@declare_library_product(libscip, "libscip.so.10.0")
+JLLWrappers.@declare_library_product(libsoplex, "libsoplexshared.so.8.0")
 JLLWrappers.@declare_executable_product(scipexe)
 function __init__()
-    JLLWrappers.@generate_init_header(boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, Readline_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, MPFR_jll, Readline_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libscip,
         "lib/libscip.so",
