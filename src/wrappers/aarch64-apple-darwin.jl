@@ -17,13 +17,13 @@ function __init__()
     JLLWrappers.@generate_init_header(boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, MPFR_jll, Readline_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libscip,
-        "lib/libscip.10.0.0.dylib",
+        "lib/libscip.10.0.3.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsoplex,
-        "lib/libsoplexshared.8.0.0.dylib",
+        "lib/libsoplexshared.8.0.3.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
